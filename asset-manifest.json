@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/olivia-7th-birthday/static/css/main.f855e6bc.css",
+    "main.js": "/olivia-7th-birthday/static/js/main.f2eca4a1.js",
+    "static/js/488.d28cd186.chunk.js": "/olivia-7th-birthday/static/js/488.d28cd186.chunk.js",
+    "static/media/logo.svg": "/olivia-7th-birthday/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/olivia-7th-birthday/index.html",
+    "main.f855e6bc.css.map": "/olivia-7th-birthday/static/css/main.f855e6bc.css.map",
+    "main.f2eca4a1.js.map": "/olivia-7th-birthday/static/js/main.f2eca4a1.js.map",
+    "488.d28cd186.chunk.js.map": "/olivia-7th-birthday/static/js/488.d28cd186.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f2eca4a1.js"
+  ]
+}
