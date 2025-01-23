@@ -17,6 +17,14 @@ module.exports = withMT({
     extend: {
       fontFamily: {},
     },
+    screens: {
+      xs: {min: "390px", max: "539px"},
+      sm: {min: "540px", max: "719px"},
+      md: {min: "720px", max: "959px"},
+      lg: {min: "960px", max: "1139px"},
+      xl: {min: "1140px", max: "1319px"},
+      "2xl": {min: "1320px"},
+    },
   },
   plugins: [],
 });

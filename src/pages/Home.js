@@ -6,14 +6,14 @@ import {
   DialogHeader,
 } from "@material-tailwind/react";
 import React, {useEffect, useState} from "react";
-import {via1, via2, via3, wildestDream} from "../assets";
+import {via1, via2, via3, via4, via5, wildestDream} from "../assets";
 import ConfirmationModal from "../components/Modals/ConfirmationModal";
 export default function Home() {
   const [audio, SetAudio] = useState("");
   const [open, SetOpen] = useState(true);
 
   const Playit = () => {
-    audio.currentTime = 0;
+    audio.currentTime = 41;
     audio.play();
     SetOpen(false);
   };
@@ -37,8 +37,8 @@ export default function Home() {
         title={"Welcome to Olivia's Birthday Party!"}
         message={"Are you ready?"}
       />
-      <div class=' flex flex-col bg-white shadow-sm border border-slate-200 rounded-lg w-[600px] mt-14'>
-        <div class=' h-[800px] m-2.5 overflow-hidden text-white rounded-md'>
+      <div class=' flex flex-col bg-white shadow-sm border border-slate-200 rounded-lg w-[600px] md:w-[500px] sm:w-[500px] xs:w-[400px] mt-14'>
+        <div class=' h-[800px] md:h-[670px] sm:h-[670px] xs:h-[500px] m-2.5 overflow-hidden text-white rounded-md'>
           <img
             // class='w-50 rounded-lg h-[800px]'
             className=''
@@ -47,21 +47,21 @@ export default function Home() {
           />
         </div>
       </div>
-      <div class=' flex flex-col bg-white shadow-sm border border-slate-200 rounded-lg w-[600px] mt-20'>
-        <div class=' h-[800px] m-2.5 overflow-hidden text-white rounded-md'>
+      <div class=' flex flex-col bg-white shadow-sm border border-slate-200 rounded-lg w-[600px] md:w-[500px] sm:w-[500px] xs:w-[400px]  mt-20'>
+        <div class=' h-[800px] md:h-[670px] sm:h-[670px] xs:h-[500px] m-2.5 overflow-hidden text-white rounded-md'>
           <img
             // class='w-50 rounded-lg h-[800px]'
-            src={via2}
-            alt='via1'
+            src={via4}
+            alt='via4'
           />
         </div>
       </div>
-      <div class=' flex flex-col bg-white shadow-sm border border-slate-200 rounded-lg w-[600px] mt-20 mb-20'>
-        <div class=' h-[800px] m-2.5 overflow-hidden text-white rounded-md'>
+      <div class=' flex flex-col bg-white shadow-sm border border-slate-200 rounded-lg w-[600px] md:w-[500px] sm:w-[500px] xs:w-[400px] mt-20 mb-20'>
+        <div class=' h-[800px] md:h-[670px] sm:h-[670px] xs:h-[500px] m-2.5 overflow-hidden text-white rounded-md'>
           <img
             // class='w-50 rounded-lg h-[800px]'
-            src={via3}
-            alt='via1'
+            src={via5}
+            alt='via5'
           />
         </div>
       </div>
