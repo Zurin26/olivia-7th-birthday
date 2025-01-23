@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/olivia-7th-birthday/static/css/main.b535896c.css",
-    "main.js": "/olivia-7th-birthday/static/js/main.7ad01259.js",
-    "static/js/332.7364fe12.chunk.js": "/olivia-7th-birthday/static/js/332.7364fe12.chunk.js",
+    "main.js": "/olivia-7th-birthday/static/js/main.a7032e42.js",
+    "static/js/446.392d7e83.chunk.js": "/olivia-7th-birthday/static/js/446.392d7e83.chunk.js",
     "static/js/479.24844627.chunk.js": "/olivia-7th-birthday/static/js/479.24844627.chunk.js",
     "static/js/163.a7ed04c0.chunk.js": "/olivia-7th-birthday/static/js/163.a7ed04c0.chunk.js",
     "static/js/750.c02fcf9d.chunk.js": "/olivia-7th-birthday/static/js/750.c02fcf9d.chunk.js",
     "static/js/685.d85c49c9.chunk.js": "/olivia-7th-birthday/static/js/685.d85c49c9.chunk.js",
     "static/media/Duomo - Wildest Dreams (Taylor Swift Cover) [Official Music from Netflix's Bridgerton Soundtrack].mp3": "/olivia-7th-birthday/static/media/Duomo - Wildest Dreams (Taylor Swift Cover) [Official Music from Netflix's Bridgerton Soundtrack].1860db5c5a5142929121.mp3",
+    "static/media/DEAR GENTLE READERS (38).jpg": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (38).5a35db2392df3a693dc3.jpg",
+    "static/media/DEAR GENTLE READERS (37).jpg": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (37).ba6fc203a6d0ffbcea92.jpg",
     "static/media/DEAR GENTLE READERS (32).jpg": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (32).09e928fbd3754b826a55.jpg",
     "static/media/DEAR GENTLE READERS (34).jpg": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (34).2af99e4a923446cd6492.jpg",
     "static/media/DEAR GENTLE READERS (31).jpg": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (31).be936eed52ecdfcd4533.jpg",
@@ -15,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.b535896c.css",
-    "static/js/main.7ad01259.js"
+    "static/js/main.a7032e42.js"
   ]
 }
