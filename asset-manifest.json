@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/olivia-7th-birthday/static/css/main.f855e6bc.css",
-    "main.js": "/olivia-7th-birthday/static/js/main.f2eca4a1.js",
-    "static/js/488.d28cd186.chunk.js": "/olivia-7th-birthday/static/js/488.d28cd186.chunk.js",
-    "static/media/logo.svg": "/olivia-7th-birthday/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/olivia-7th-birthday/index.html",
-    "main.f855e6bc.css.map": "/olivia-7th-birthday/static/css/main.f855e6bc.css.map",
-    "main.f2eca4a1.js.map": "/olivia-7th-birthday/static/js/main.f2eca4a1.js.map",
-    "488.d28cd186.chunk.js.map": "/olivia-7th-birthday/static/js/488.d28cd186.chunk.js.map"
+    "main.css": "/olivia-7th-birthday/static/css/main.b535896c.css",
+    "main.js": "/olivia-7th-birthday/static/js/main.7ad01259.js",
+    "static/js/332.7364fe12.chunk.js": "/olivia-7th-birthday/static/js/332.7364fe12.chunk.js",
+    "static/js/479.24844627.chunk.js": "/olivia-7th-birthday/static/js/479.24844627.chunk.js",
+    "static/js/163.a7ed04c0.chunk.js": "/olivia-7th-birthday/static/js/163.a7ed04c0.chunk.js",
+    "static/js/750.c02fcf9d.chunk.js": "/olivia-7th-birthday/static/js/750.c02fcf9d.chunk.js",
+    "static/js/685.d85c49c9.chunk.js": "/olivia-7th-birthday/static/js/685.d85c49c9.chunk.js",
+    "static/media/Duomo - Wildest Dreams (Taylor Swift Cover) [Official Music from Netflix's Bridgerton Soundtrack].mp3": "/olivia-7th-birthday/static/media/Duomo - Wildest Dreams (Taylor Swift Cover) [Official Music from Netflix's Bridgerton Soundtrack].1860db5c5a5142929121.mp3",
+    "static/media/DEAR GENTLE READERS (32).jpg": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (32).09e928fbd3754b826a55.jpg",
+    "static/media/DEAR GENTLE READERS (34).jpg": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (34).2af99e4a923446cd6492.jpg",
+    "static/media/DEAR GENTLE READERS (31).jpg": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (31).be936eed52ecdfcd4533.jpg",
+    "index.html": "/olivia-7th-birthday/index.html"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.f2eca4a1.js"
+    "static/css/main.b535896c.css",
+    "static/js/main.7ad01259.js"
   ]
 }
