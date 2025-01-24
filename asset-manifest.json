@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/olivia-7th-birthday/static/css/main.29310427.css",
-    "main.js": "/olivia-7th-birthday/static/js/main.935e19ba.js",
-    "static/js/446.8bd14cfb.chunk.js": "/olivia-7th-birthday/static/js/446.8bd14cfb.chunk.js",
+    "main.js": "/olivia-7th-birthday/static/js/main.ee82a427.js",
+    "static/js/676.a4983d5b.chunk.js": "/olivia-7th-birthday/static/js/676.a4983d5b.chunk.js",
     "static/js/479.24844627.chunk.js": "/olivia-7th-birthday/static/js/479.24844627.chunk.js",
     "static/js/163.a7ed04c0.chunk.js": "/olivia-7th-birthday/static/js/163.a7ed04c0.chunk.js",
     "static/js/750.c02fcf9d.chunk.js": "/olivia-7th-birthday/static/js/750.c02fcf9d.chunk.js",
     "static/js/685.d85c49c9.chunk.js": "/olivia-7th-birthday/static/js/685.d85c49c9.chunk.js",
     "static/media/Duomo - Wildest Dreams (Taylor Swift Cover) [Official Music from Netflix's Bridgerton Soundtrack].mp3": "/olivia-7th-birthday/static/media/Duomo - Wildest Dreams (Taylor Swift Cover) [Official Music from Netflix's Bridgerton Soundtrack].1860db5c5a5142929121.mp3",
+    "static/media/DEAR GENTLE READERS (2).png": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (2).97637403857681647344.png",
+    "static/media/DEAR GENTLE READERS (3).png": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (3).1bc03909d4d3af1fc00f.png",
+    "static/media/DEAR GENTLE READERS (1).png": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (1).6a5e1fa04bbff0b4738c.png",
     "static/media/DEAR GENTLE READERS (38).jpg": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (38).5a35db2392df3a693dc3.jpg",
     "static/media/DEAR GENTLE READERS (37).jpg": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (37).ba6fc203a6d0ffbcea92.jpg",
     "static/media/DEAR GENTLE READERS (32).jpg": "/olivia-7th-birthday/static/media/DEAR GENTLE READERS (32).09e928fbd3754b826a55.jpg",
@@ -17,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.29310427.css",
-    "static/js/main.935e19ba.js"
+    "static/js/main.ee82a427.js"
   ]
 }
